@@ -1,2 +1,2 @@
-# asar_project
+# ASAR - project
 Assesment project for Archaeological Spatial Analysis in R
