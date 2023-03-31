@@ -45,9 +45,13 @@ You can use a word document with included figures or if you are feeling brave pu
 
 Urban Data Palette [Create spatial square/hexagon grids and count points inside in R with sf](https://urbandatapalette.com/post/2021-08-tessellation-sf/)
 
+Knitter, D.; Nakoinz, O. [Point Pattern Analysis as Tool for Digital Geoarchaeology: A Case Study of Megalithic Graves in Schleswig-Holstein, Germany.](https://osf.io/vh5g2/download) In Digital Geoarchaeology; Siart, C., Forbriger, M., Bubenzer, O., Eds.; Natural Science in Archaeology; Springer: Cham, Switzerland, 2018; pp. 45–64.
+
 Nakoinz Oliver [Obtaining SRTM data and extracting site characteristics](http://scientific-title.surge.sh/srtm.html#terrain_characteristics_of_the_sites)
 
 Schmidt Sophie, Schiesberg Sara, Vogl Kai and Rung Sandra [Site Catchment Analysis – A scripted PyQGIS solution](https://archaeoinformatics.net/python-for-site-catchment-qgis/)
+
+
 
 
 
